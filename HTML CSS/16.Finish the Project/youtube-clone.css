@@ -1,0 +1,21 @@
+.img{
+   width: 300px;
+   height:175px;
+}
+.title{
+   width:250px;;
+}
+.sundar{
+   margin-right: 20px;
+   display: inline;
+}
+.whole{
+   display: flex;
+}
+.yt-dp{
+   display: inline-block;
+   vertical-align: top;
+}
+.vid-info{
+   display: inline-block;
+}
